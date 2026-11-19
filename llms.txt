@@ -1,0 +1,8 @@
+# Breathe Getaway
+
+> Guides on studying and job hunting with AI.
+
+## Guides
+- [How to study faster with AI (and actually remember it)](https://breathegetaway.ai/study-faster-with-ai/): Use AI to explain, quiz and summarize so you learn faster, without just copying answers. A simple routine for any class.
+- [How to apply to more jobs in less time](https://breathegetaway.ai/apply-to-more-jobs-faster/): Practical ways to send more tailored job applications each week: a master resume, fast tailoring, and autofill for long application forms.
+- [How to summarize a lecture or YouTube video in minutes](https://breathegetaway.ai/summarize-a-lecture-or-youtube-video/): Get the main points of a long lecture or video fast, then quiz yourself on it. Works for recorded classes, YouTube and online courses.
