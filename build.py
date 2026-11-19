@@ -89,6 +89,123 @@ POSTS = [
 ("What's the fastest way to study from a video?", "Get a structured summary, rewatch only the confusing parts, then quiz yourself. Utterseen does all three from your screen."),
 ],
 },
+{
+"slug": "make-flashcards-with-ai",
+"title": "How to make flashcards with AI (Anki and Quizlet)",
+"desc": "Turn notes, slides or a textbook chapter into flashcards in minutes with AI, then review them with spaced repetition so they stick.",
+"answer": "To make flashcards with AI, give it your notes, slides or a chapter and ask for one question and one short answer per fact, then import them into Anki or Quizlet. Keep each card to a single fact, and review with spaced repetition so you see hard cards more often.",
+"body": """
+<h2>What makes a good flashcard?</h2>
+<p>One fact per card. "What does the mitochondria do?" with a one-line answer beats a card that asks you to recite a whole paragraph. Short cards are faster to review and show you exactly what you don't know yet.</p>
+<h2>How do you get AI to write the cards?</h2>
+<p>Paste in a section of your notes or a chapter and ask for flashcards in a two-column format: question, then answer. Ask it to skip anything trivial and to phrase questions the way your teacher would. Check the cards once; AI can get a detail wrong, and fixing a card takes seconds.</p>
+<h2>How do you get them into Anki or Quizlet?</h2>
+<p>Both apps import plain text. In Anki, use File, then Import, and pick a text file with the question and answer separated by a tab or comma. In Quizlet, create a set and use Import to paste the list. Anki's free desktop app schedules reviews with spaced repetition; newer versions also offer the FSRS scheduler.</p>
+<h2>Why does spaced repetition work?</h2>
+<p>Reviewing a fact right before you'd forget it makes the memory last longer each time. Research on the spacing effect, including a large 2006 review by Cepeda and colleagues, found that spreading study over days beats cramming the same total time into one session.</p>
+<h2>Making cards from whatever's on your screen</h2>
+<p><a href="{US}">Utterseen</a> is a free AI voice assistant for Mac and Windows that sees your screen. Open your slides, notes or a PDF chapter, hold a key and say "make Anki flashcards from this," and it builds the deck for you. It can also quiz you out loud on the same material.</p>
+""",
+"faq": [
+("Can ChatGPT make Anki flashcards?", "Yes. Ask for question and answer pairs separated by a tab, save them as a text file, and import it into Anki. Check the cards for mistakes before you study them."),
+("How many flashcards should I review a day?", "Let the app decide. With spaced repetition, Anki shows you the cards that are due, which is usually a manageable number if you add new cards steadily rather than all at once."),
+("Is Anki better than Quizlet?", "Anki's free desktop app has stronger spaced repetition scheduling. Quizlet is easier to share and use on the go. Both import AI-made cards."),
+],
+"sources": [("Cepeda et al. (2006), Distributed practice in verbal recall tasks, Psychological Bulletin", "https://doi.org/10.1037/0033-2909.132.3.354"), ("Anki manual: importing", "https://docs.ankiweb.net/importing/intro.html")],
+},
+{
+"slug": "how-to-study-for-finals",
+"title": "How to study for finals in less time",
+"desc": "A finals plan that works: start a week out, quiz yourself instead of re-reading, space your reviews, and sleep. With AI shortcuts for each step.",
+"answer": "To study for finals efficiently, start about a week out, spend most of your time quizzing yourself on practice questions instead of re-reading, spread reviews across several days, and protect your sleep the night before. Use AI to make the practice questions and study guides so your time goes into recall.",
+"body": """
+<h2>When should you start studying for finals?</h2>
+<p>About a week before each exam, in short daily sessions. Spreading the same hours over several days helps you remember more than one long cram session, which is one of the most consistent findings in learning research.</p>
+<h2>What should you actually do in each session?</h2>
+<p>Quiz yourself. Work old exams and practice problems, or have AI write questions from your notes, and answer them without looking. Mark what you miss and start the next session with those. Re-reading and highlighting feel productive but help much less.</p>
+<h2>How do you cover a whole semester fast?</h2>
+<p>Make a one-page study guide per unit: key terms, formulas and the kinds of questions your teacher asks. AI can draft it from your slides and notes in minutes, and you fix what's off. Then quiz from the guide every day.</p>
+<h2>Does sleep really matter the night before?</h2>
+<p>Yes. Sleep helps your brain hold onto what you studied, and an all-nighter makes recall slower on test day. A shorter review in the evening and a full night's sleep beats studying until 4 a.m.</p>
+<h2>A study helper that sees your screen</h2>
+<p><a href="{US}">Utterseen</a> is a free AI voice assistant for Mac and Windows. With your slides, notes or a practice exam open, hold a key and ask it to quiz you, explain a problem step by step, or make a study guide PDF. It works on whatever's on your screen, so there's no copying into a chat window.</p>
+""",
+"faq": [
+("How many hours a day should I study for finals?", "There's no fixed number. Several focused sessions of 30 to 60 minutes with breaks, spread over a week, usually beat one long day of cramming."),
+("Is it better to re-read notes or do practice problems?", "Practice problems. Testing yourself is one of the best-supported study methods; re-reading is one of the weakest."),
+("Can AI make a study guide from my notes?", "Yes. Give it your notes or slides and ask for key terms, formulas and likely questions. Utterseen can turn whatever's on your screen into a study guide PDF."),
+],
+"sources": [("Dunlosky et al. (2013), Improving Students' Learning With Effective Learning Techniques", "https://doi.org/10.1177/1529100612453266"), ("Cepeda et al. (2006), Distributed practice in verbal recall tasks", "https://doi.org/10.1037/0033-2909.132.3.354")],
+},
+{
+"slug": "write-a-cover-letter-fast",
+"title": "How to write a cover letter fast (that still sounds like you)",
+"desc": "A simple three-paragraph cover letter you can tailor in minutes, plus how to use AI without sounding generic.",
+"answer": "To write a cover letter fast, use three short paragraphs: why this role at this company, two specific results from your past that match the job, and a one-line close. Keep it under a page, reuse the structure for every application, and only rewrite the parts that name the company and the matching results.",
+"body": """
+<h2>How long should a cover letter be?</h2>
+<p>Under one page, usually three or four short paragraphs. Hiring managers skim. A tight letter that hits the job's main requirements gets read; a long one gets skipped.</p>
+<h2>What goes in each paragraph?</h2>
+<p><b>Opening:</b> the role you're applying for and one real reason you want it at this company. <b>Middle:</b> two results from your past that match what the posting asks for, with numbers if you have them. <b>Close:</b> a line saying you'd like to talk, and thanks.</p>
+<h2>How do you tailor it quickly?</h2>
+<p>Keep a base letter. For each job, swap in the company name, the role, one line about why that company, and the two results that best match the posting's top requirements. That's a few minutes per application instead of starting over.</p>
+<h2>How do you use AI without sounding generic?</h2>
+<p>Give the AI the job posting and your resume, and ask for a draft using your real results. Then cut anything you wouldn't say out loud, like "I am thrilled to apply" or "dynamic team player." Specific beats polished.</p>
+<h2>Drafting it from the posting on your screen</h2>
+<p><a href="{US}">Utterseen</a> is a free AI assistant for Mac and Windows that sees your screen. With a job posting open, hold a key and ask for a cover letter for this job; it drafts one from your resume and can paste it into the application form. It can also tailor your resume to the same posting and fill out the rest of the form.</p>
+""",
+"faq": [
+("Do employers still read cover letters?", "Some do and some don't, and you usually can't tell which. A short, specific letter is worth sending when the application allows one, especially for roles you really want."),
+("Is it okay to use AI to write a cover letter?", "Yes, as long as the facts are true and you edit it to sound like you. Remove generic phrases and make sure the results it mentions are your real ones."),
+("Should I write a new cover letter for every job?", "Tailor it, don't rewrite it. Keep the structure and swap the company, role and the results that match each posting."),
+],
+},
+{
+"slug": "fill-out-workday-applications-faster",
+"title": "How to fill out Workday job applications faster",
+"desc": "Why Workday applications take so long, and practical ways to get through them faster: resume parsing, saved answers and autofill.",
+"answer": "To get through Workday applications faster, upload your resume to let Workday prefill what it can, then fix the fields it gets wrong, keep a document of answers you reuse, and use an autofill tool for the work history and education sections. Each company has its own Workday site, so expect to make an account for each one.",
+"body": """
+<h2>Why do Workday applications take so long?</h2>
+<p>Each company runs its own Workday site, so you usually create a separate account per employer. Then the form asks for your full work history, education and the same yes or no questions every time, often across five or more pages.</p>
+<h2>Does uploading your resume help?</h2>
+<p>Yes, partly. Workday offers to autofill from your resume, and it gets the basics like contact details mostly right. It often splits or mislabels jobs and dates, so check each entry before you move on.</p>
+<h2>What should you keep ready?</h2>
+<p>A document with your work history in clean blocks (title, company, dates, three bullets), your education, references, and answers to common questions like work authorization and salary expectations. Copying from one place is faster than retyping from memory.</p>
+<h2>How do you avoid making a new password every time?</h2>
+<p>Use a password manager. It saves each company's Workday login and fills it next time, which also helps when you need to check your application status.</p>
+<h2>Filling the whole form for you</h2>
+<p><a href="{US}">Utterseen</a> is a free AI assistant for Mac and Windows that sees your screen. Open a Workday application, hold a key and say "fill this out," and it fills the fields from your resume, including the long work history pages. It never presses Submit unless you tell it to, so you review everything first.</p>
+""",
+"faq": [
+("Why does every company make me create a new Workday account?", "Each employer runs its own Workday site, and accounts don't carry over between companies. A password manager makes this much less painful."),
+("Can you autofill Workday applications?", "Workday's own resume upload fills part of the form. Autofill tools like Utterseen can fill the rest from your resume, and you review before submitting."),
+("How long does a Workday application take?", "Often 20 to 45 minutes by hand because of the long work history sections. Resume parsing plus autofill can cut that to a few minutes of checking."),
+],
+},
+{
+"slug": "tailor-resume-to-job-description",
+"title": "How to tailor your resume to a job description in 10 minutes",
+"desc": "A quick method to match your resume to each job posting so it gets past screening and in front of a person.",
+"answer": "To tailor your resume quickly, find the five or six skills the posting repeats, move your bullets that prove those skills to the top of each job, use the posting's exact wording where it's true for you, and cut bullets that don't match. Start from a master resume so you're choosing bullets, not writing them.",
+"body": """
+<h2>What should you look for in the job posting?</h2>
+<p>The skills, tools and phrases it repeats, especially in the requirements section. If it says "stakeholder communication" three times, that's a top priority for whoever reads your resume.</p>
+<h2>What do you change on the resume?</h2>
+<p>The order and wording of bullets, the skills section, and sometimes the summary line. Put the bullets that prove the posting's top skills first under each job. Use their words where they're true: if they say "customer success" and you wrote "client support," match them.</p>
+<h2>What shouldn't you change?</h2>
+<p>Your titles, dates and facts. Tailoring is choosing and wording what's true, not adding skills you don't have. Anything on the resume can come up in the interview.</p>
+<h2>How does a master resume save time?</h2>
+<p>Keep one long file with every job and every result you've had. Each tailored resume is a one-page selection from it, which takes minutes instead of an hour.</p>
+<h2>Tailoring with the posting on your screen</h2>
+<p><a href="{US}">Utterseen</a> is a free AI assistant for Mac and Windows that sees your screen. Open a job posting, hold a key and ask it to tailor your resume to this job; it picks and rewords your real bullets to match. It can then fill out the application form from the same resume.</p>
+""",
+"faq": [
+("Do I really need to tailor my resume for every job?", "A light tailoring pass for each job is worth it. Reordering bullets and matching the posting's words takes minutes and makes your resume line up with what the employer screens for."),
+("What are ATS keywords?", "They're the skills and terms from the job posting that applicant tracking systems and recruiters look for. Using the posting's own wording, where true, helps your resume match."),
+("Can AI tailor my resume?", "Yes. Give it the job posting and your resume and ask it to reorder and reword your existing bullets. Check that every line is still true."),
+],
+}
 ]
 
 CSS = """
